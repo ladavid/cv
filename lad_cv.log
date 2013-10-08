@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2012.7.17)  8 OCT 2013 14:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2012.7.17)  8 OCT 2013 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -260,63 +260,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--189
 [2
 
 
-] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
+]
+Underfull \hbox (badness 10000) in paragraph at lines 198--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--207
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
 
  []
 
 
-Overfull \hbox (4.35866pt too wide) in paragraph at lines 209--212
+Overfull \hbox (4.35866pt too wide) in paragraph at lines 207--210
 []$\OMS/cmsy/m/n/10.95 ^^O$  \OT1/cmr/m/n/10.95 Alexan-dra Kon-ings, ``Re-con-s
 truct-ing an-cient bi-o-log-i-cal net-works.'' Un-der-grad-u-ate re-searcher,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--221
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
 \c@revi2=\count104
-[4]
-Overfull \hbox (8.97359pt too wide) in paragraph at lines 311--315
+[3]
+Overfull \hbox (8.97359pt too wide) in paragraph at lines 309--313
 []\OT1/cmr/m/n/10.95 ``Rapid evo-lu-tion-ary in-no-va-tion dur-ing an Archean G
 e-netic Ex-pan-sion,'' Bi-ol-ogy of Genomes
  []
 
 
-Overfull \hbox (2.93587pt too wide) in paragraph at lines 323--326
+Overfull \hbox (2.93587pt too wide) in paragraph at lines 321--324
 []\OT1/cmr/m/n/10.95 ``Extracting in-sight from in-creas-ingly large mi-cro-bia
 l ge-nomic datasets,'' Ginkgo BioWorks,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 340.
-[5
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
+[4
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 340.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 340.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 340.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 340.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 338.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 338.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 338.
  ) 
 Here is how much of TeX's memory you used:
- 4377 strings out of 495063
- 64680 string characters out of 3181831
+ 4376 strings out of 495063
+ 64674 string characters out of 3181831
  147766 words of memory out of 3000000
  7577 multiletter control sequences out of 15000+200000
  8293 words of font info for 29 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,10n,45p,171b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,45p,171b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
 </opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
 b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmcsc10.p
@@ -324,10 +324,10 @@ fb></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmr10.pf
 b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></opt/local/share/texmf-texlive-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b>
-Output written on lad_cv.pdf (5 pages, 96769 bytes).
+Output written on lad_cv.pdf (4 pages, 96497 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
