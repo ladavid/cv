@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_4) (format=pdflatex 2013.12.3)  31 JAN 2014 10:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_4) (format=pdflatex 2013.12.3)  6 FEB 2014 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -232,28 +232,18 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 Non-PDF special ignored!{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex
 .map}]
-Overfull \hbox (20.06114pt too wide) in paragraph at lines 134--139
+Overfull \hbox (20.06114pt too wide) in paragraph at lines 132--137
 \OT1/cmr/m/n/10.95 sult from lo-co-mo-tory deficits pos-si-bly linked to mus-cl
 e frailty. $[]$,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--148
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--186
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--191
+Underfull \hbox (badness 10000) in paragraph at lines 148--152
 
  []
 
@@ -261,62 +251,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--191
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 200--203
+Overfull \hbox (5.91878pt too wide) in paragraph at lines 205--207
+[]$\OMS/cmsy/m/n/10.95 ^^O$  \OT1/cmr/m/n/10.95 In-struc-tor: IDESHI course, In
+-ter-na-tional Cen-tre for Di-ar-rhoeal Dis-ease Re-search, Bangladesh,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--207
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
 
-Overfull \hbox (4.35866pt too wide) in paragraph at lines 209--212
-[]$\OMS/cmsy/m/n/10.95 ^^O$  \OT1/cmr/m/n/10.95 Alexan-dra Kon-ings, ``Re-con-s
-truct-ing an-cient bi-o-log-i-cal net-works.'' Un-der-grad-u-ate re-searcher,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--221
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
 
  []
 
 
-Overfull \hbox (9.1164pt too wide) in paragraph at lines 222--225
-[]$\OMS/cmsy/m/n/10.95 ^^O$  \OT1/cmr/m/n/10.95 Ref-eree: \OT1/cmr/m/it/10.95 B
-i-ol-ogy Let-ters\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 BMC Bioin-for-mat-ics
-\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 Genome Re-search\OT1/cmr/m/n/10.95 , \
-OT1/cmr/m/it/10.95 PLoS One\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 PLoS Pathog
-ens\OT1/cmr/m/n/10.95 ,
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
  []
 
 \c@revi2=\count104
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
 [3]
-Overfull \hbox (8.97359pt too wide) in paragraph at lines 313--317
+Overfull \hbox (8.97359pt too wide) in paragraph at lines 352--356
 []\OT1/cmr/m/n/10.95 ``Rapid evo-lu-tion-ary in-no-va-tion dur-ing an Archean G
 e-netic Ex-pan-sion,'' Bi-ol-ogy of Genomes
  []
 
 
-Overfull \hbox (2.93587pt too wide) in paragraph at lines 325--328
+Overfull \hbox (2.93587pt too wide) in paragraph at lines 364--367
 []\OT1/cmr/m/n/10.95 ``Extracting in-sight from in-creas-ingly large mi-cro-bia
 l ge-nomic datasets,'' Ginkgo BioWorks,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
 [4
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 342.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 342.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 381.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 381.
  ) 
 Here is how much of TeX's memory you used:
  4482 strings out of 495035
@@ -325,14 +319,14 @@ Here is how much of TeX's memory you used:
  7705 multiletter control sequences out of 15000+600000
  8293 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,11n,45p,171b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,45p,171b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 </opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/lo
 cal/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/local/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/local/share/
 texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lad_cv.pdf (4 pages, 96637 bytes).
+Output written on lad_cv.pdf (4 pages, 96647 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream

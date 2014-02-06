@@ -50,7 +50,6 @@ Massachusetts Institute of Technology
 \vspace*{-5mm}
 \begin{list1}
 \item[] Ph.D., Computational and Systems Biology
-\item[] \emph{Thesis}: ``Novel phylogenetic approaches to problems in microbial genomics''
 \end{list1}
 
 \vspace*{-2.5mm}
@@ -77,20 +76,19 @@ Undergraduate research assistant, Columbia University - \emph{PI}: Chris Wiggins
 \begin{revnumerate}[11]
 
 \item {\textbf{LA David}, AC Materna, J Friedman, I Baptista, MC
-  Blackburn, A Perrotta, SE Erdman, EJ Alm.  Rare events can
-  trigger switching between alternative stable states of the human
-  microbiome.  \emph{Submitted}.}
+  Blackburn, A Perrotta, SE Erdman, EJ Alm.  Host lifestyle affects
+  human microbiota on daily timescales.  \emph{In revision}.}
 
 \item {\textbf{LA David}, CF Maurice, RN Carmody, DB Gootenberg, JE
   Button, BE Wolfe, AV Ling, AS Devlin, Y Varma, MA Fischbach, SB
   Biddinger, RJ Dutton, PJ Turnbaugh.  Diet rapidly and reproducibly
-  alters the gut microbiome. \emph{\underline{Nature}}, Published
-  online Dec 2013.}
+  alters the gut microbiome. \emph{\underline{Nature}},
+  \textbf{505}(7484):559-563, Jan 2014.}
 
 \item {G Szabo, SP Preheim, KM Kauffman, \textbf{LA David}, J Shapiro,
   EJ Alm, MF Polz.  Reproducibility of \emph{Vibrionaceae} Population
   Structure in Coastal Bacterioplankton. \emph{\underline{ISME J}},
-  \textbf{7}: 509-519, Mar 2013.}
+  \textbf{7}:509-519, Mar 2013.}
 
 \item {CS Smillie*, MB Smith*, J Friedman, OX Cordero, \textbf{LA
     David}, EJ Alm.  Ecology drives a global network of gene exchange
@@ -160,6 +158,7 @@ infection.'' (\$39K) PI: Lawrence David; Awarded 01/2011-12/2012.
 \section{\underline{\sc Fellowships \& Awards}} 
 \vspace{.25in}
 \begin{list1}
+\item[] 2014 - Alfred P. Sloan Research Fellow % (\$50K)
 \item[] 2013 - Whitehead Scholar, Duke University% (\$50K)
 \item[] 2010 - Elected Junior Fellow, Harvard Society of Fellows% (\$180K)
 \item[] 2009 - MIT Whitaker Health Sciences Fund Fellowship %(\$30K)
