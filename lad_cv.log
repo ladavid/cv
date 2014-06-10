@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_4) (format=pdflatex 2013.12.3)  19 FEB 2014 22:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_5) (format=pdflatex 2013.12.3)  10 JUN 2014 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -238,12 +238,18 @@ e frailty. $[]$,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
+Overfull \hbox (5.33238pt too wide) in paragraph at lines 142--146
+\OT1/cmr/m/n/10.95 pro-bi-otics that in-hibit se-lect gut mi-crobes'' ($50K) PI
+: Lawrence David; 07/2014-06/2015. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--151
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
 
  []
 
@@ -252,42 +258,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--157
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--196
+
+ []
+
 [2
 
 
 ]
-Overfull \hbox (5.91878pt too wide) in paragraph at lines 210--212
-[]$\OMS/cmsy/m/n/10.95 ^^O$  \OT1/cmr/m/n/10.95 In-struc-tor: IDESHI course, In
--ter-na-tional Cen-tre for Di-ar-rhoeal Dis-ease Re-search, Bangladesh,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--212
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--219
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--223
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 229--231
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
@@ -295,28 +300,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--231
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[3]
-Overfull \hbox (8.97359pt too wide) in paragraph at lines 357--361
+[3] [4]
+Overfull \hbox (8.97359pt too wide) in paragraph at lines 373--377
 []\OT1/cmr/m/n/10.95 ``Rapid evo-lu-tion-ary in-no-va-tion dur-ing an Archean G
 e-netic Ex-pan-sion,'' Bi-ol-ogy of Genomes
  []
 
 
-Overfull \hbox (2.93587pt too wide) in paragraph at lines 369--372
+Overfull \hbox (2.93587pt too wide) in paragraph at lines 385--388
 []\OT1/cmr/m/n/10.95 ``Extracting in-sight from in-creas-ingly large mi-cro-bia
 l ge-nomic datasets,'' Ginkgo BioWorks,
  []
 
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
- [5
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 402.
+[5
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 386.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 402.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 402.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 402.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 402.
  ) 
 Here is how much of TeX's memory you used:
  4483 strings out of 495035
@@ -332,7 +336,7 @@ cal/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/local/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/local/share/
 texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lad_cv.pdf (5 pages, 96952 bytes).
+Output written on lad_cv.pdf (5 pages, 97659 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
