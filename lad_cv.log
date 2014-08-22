@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_5) (format=pdflatex 2013.12.3)  22 AUG 2014 09:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_5) (format=pdflatex 2013.12.3)  22 AUG 2014 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -307,26 +307,26 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
  [4]
-Overfull \hbox (8.97359pt too wide) in paragraph at lines 416--420
+Overfull \hbox (8.97359pt too wide) in paragraph at lines 421--425
 []\OT1/cmr/m/n/10.95 ``Rapid evo-lu-tion-ary in-no-va-tion dur-ing an Archean G
 e-netic Ex-pan-sion,'' Bi-ol-ogy of Genomes
  []
 
 
-Overfull \hbox (2.93587pt too wide) in paragraph at lines 428--431
+Overfull \hbox (2.93587pt too wide) in paragraph at lines 433--436
 []\OT1/cmr/m/n/10.95 ``Extracting in-sight from in-creas-ingly large mi-cro-bia
 l ge-nomic datasets,'' Ginkgo BioWorks,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 445.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 450.
 [5
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 445.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 445.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 445.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 445.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 450.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 450.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 450.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 450.
  ) 
 Here is how much of TeX's memory you used:
  4483 strings out of 495035
@@ -343,7 +343,7 @@ share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/local/share/
 texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-
 texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lad_cv.pdf (5 pages, 106041 bytes).
+Output written on lad_cv.pdf (5 pages, 106149 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
