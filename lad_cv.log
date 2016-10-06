@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/MacPorts 2015_11) (preloaded format=pdflatex 2016.1.14)  14 JUN 2016 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/MacPorts 2016_1) (preloaded format=pdflatex 2016.10.6)  6 OCT 2016 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -230,7 +230,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--50
 
 \c@revi1=\count104
 
-Overfull \hbox (2.28049pt too wide) in paragraph at lines 91--95
+Overfull \hbox (2.28049pt too wide) in paragraph at lines 99--103
 []\OT1/cmr/m/n/10.95 S Wong, WZ Stephens, AR Burns, K Staga-man, \OT1/cmr/bx/n/
 10.95 LA David\OT1/cmr/m/n/10.95 , BJM Bo-han-nan, K Guillemin,
  []
@@ -246,7 +246,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 Non-PDF special ignored!{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex
 .map}]
-Overfull \hbox (20.06114pt too wide) in paragraph at lines 156--161
+Overfull \hbox (20.06114pt too wide) in paragraph at lines 164--169
 \OT1/cmr/m/n/10.95 sult from lo-co-mo-tory deficits pos-si-bly linked to mus-cl
 e frailty. $[]$,
  []
@@ -255,37 +255,42 @@ e frailty. $[]$,
 
 
 ] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 258--263
+Underfull \hbox (badness 10000) in paragraph at lines 267--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--267
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--271
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--274
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--281
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--286
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--299
 
  []
 
@@ -296,24 +301,24 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
  [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 500.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 519.
  [7
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 500.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 500.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 500.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 500.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 519.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 519.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 519.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 519.
  ) 
 Here is how much of TeX's memory you used:
- 4765 strings out of 495004
- 70994 string characters out of 6181263
+ 4765 strings out of 494999
+ 70993 string characters out of 6181187
  151856 words of memory out of 5000000
- 8009 multiletter control sequences out of 15000+600000
+ 8012 multiletter control sequences out of 15000+600000
  8293 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,10n,45p,210b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,10n,45p,210b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 </opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/lo
 cal/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/local/
@@ -321,7 +326,7 @@ share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/local/share/
 texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-
 texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lad_cv.pdf (7 pages, 110581 bytes).
+Output written on lad_cv.pdf (7 pages, 111108 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
