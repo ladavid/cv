@@ -67,8 +67,8 @@ Columbia University \hfill 2001-2005\\
 Associate Director, Duke Microbiome Center, Duke
 University \hfill 2017-\hspace{7.5mm} \\
 Assistant Professor, Biomedical Engineering, Duke
-University \hfill 2014-\hspace{7.5mm} \\
-Assistant Professor, Center for Genomic and Computational Biology, Duke
+University \hfill 2016-\hspace{7.5mm} \\
+Assistant Professor, Center for Genomic \& Computational Biology, Duke
 University \hfill 2014-\hspace{7.5mm} \\
 Assistant Professor, Molecular Genetics \& Microbiology, Duke
 University \hfill 2013-\hspace{7.5mm} \\
@@ -82,7 +82,7 @@ Undergraduate researcher, Columbia University - \emph{Mentor}: Prof. Chris Wiggi
 \vspace{.25in}
 
 \begin{itemize}[leftmargin=1cm, style=sameline, itemsep=0mm]
-\item[2018] Damon Runyon-Rachleff Innovator
+\item[2018] Damon Runyon-Rachleff Innovator (1 of 6 nationwide)
 \item[2018] Early-Career Systems Microbiologist, \emph{mSystems}
 \item[2016] SN10: ScienceNews 10 Scientists to Watch
 \item[2015] Beckman Young Investigator (1 of 8 nationwide)
@@ -107,20 +107,36 @@ Undergraduate researcher, Columbia University - \emph{Mentor}: Prof. Chris Wiggi
 \end{itemize}
 
 \section{\underline{\sc Publications}} 
+\vspace{.1in} $[\ast$ denotes equal contribution; current/former David
+  Lab members \underline{underlined}$]$
 \vspace{.1in}
-$[\ast$ denotes equal
-      contribution; David Lab members \underline{underlined}$]$
-\vspace{.1in}
 
-\begin{revnumerate}[21]
+\begin{revnumerate}[24]
 
-\item {\ul{AT Reese}, EH Cho, B Klitzman, SP Nichols, NA Wisniewski, \ul{MM
-  Villa}, \ul{HK Durand}, \ul{FS Midani}, \ul{SN Nimmagadda}, TM O’Connell, JP Wright,
-  MA Deshusses, \textbf{LA David}. Antibiotic-induced changes in microbial
-  respiration disrupt redox dynamics in the mouse
-  gut. \emph{\ul{eLife}}, 7:e35987, Jun 2018.
-}
+  \item {\ul{JD Silverman}, \ul{HK Durand}, \ul{RJ Bloom}, S
+    Mukherjee, \textbf{LA David}. Dynamic linear models guide design
+    and analysis of microbiota studies within artificial human
+    guts. \emph{Accepted}, \emph{\ul{Microbiome}}, 2018.}
 
+  \item {\ul{AT Reese}, FC Pereira, A Schintlmeister, D Berry, M
+    Wagner, LP Hale, \ul{A Wu}, \ul{S Jiang}, \ul{HK Durand},
+    Xiyou Zhou, R Premont, AM Diehl, TM O’Connell, SC Alberts, TR
+    Kartzinel, RM Pringle, RR Dunn, JP Wright, \textbf{LA
+      David}. Mammals both induce and attenuate microbial nitrogen
+    limitation in the large intestine. \emph{Accepted}, \emph{\ul{Nature
+    Microbiology}}, 2018.}
+
+\item{\ul{A Washburne}, \ul{J Silverman}, J Morton, D Becker, D
+  Crowley, S Mukherjee, \textbf{L David}, R Plowright. Phylofactorization - a
+  graph partitioning algorithm to identify phylogenetic scales of
+  ecological data. \emph{Accepted}, \emph{\ul{Ecological Monographs}}, 2018.}
+
+\item {\ul{AT Reese}, EH Cho, B Klitzman, SP Nichols, NA Wisniewski,
+  \ul{MM Villa}, \ul{HK Durand}, \ul{FS Midani}, \ul{SN Nimmagadda},
+  TM O’Connell, JP Wright, MA Deshusses, \textbf{LA
+    David}. Antibiotic-induced changes in microbial respiration
+  disrupt redox dynamics in the mouse gut. \emph{\ul{eLife}},
+  7:e35987, Jun 2018.  }
 
 \item {\ul{FS Midani}*, AA Weil*, F Chowdhury, YA Begum, AI Khan, MD
   Debela, \ul{HK Durand}, \ul{AT Reese}, \ul{SN Nimmagadda}, \ul{JD
@@ -239,6 +255,9 @@ Closely Related Bacterioplankton.  \emph{\underline{Science}},
 
 \begin{itemize}[leftmargin=2cm, style=sameline]
 
+\item[2018-2021] Office of Naval Research, N00014-18-1-2616
+  \newline Principal Investigator
+
 \item[2017-2019] Damon Runyon-Rachleff Innovation Award 
   \newline Co-Principal Investigator (with Co-PI:
   Anthony Sung)
@@ -315,7 +334,8 @@ American, StoryCollider, USA Today, and Wired.
 \section{\underline{\sc Patent}} 
 \vspace{.25in} 
 \begin{itemize}[leftmargin=2cm, style=sameline, itemsep=0mm]
-\item[62/370,817] Compositions and Methods for Measuring Bacterial Growth, \emph{Provisional filed} 2017
+\item[62/370,817] Compositions and Methods for Measuring Bacterial
+  Growth, \emph{Provisional filed} 2017
 \end{itemize}
 
 
@@ -325,16 +345,20 @@ American, StoryCollider, USA Today, and Wired.
 \hangindent=0.5in $\bullet$\hspace{.1in} Referee:
 \emph{Bioinformatics}, \emph{Biology Letters}, \emph{BMC
   Bioinformatics}, \emph{BMC Microbiology}, \emph{Biotechnology \&
-  Bioengineering}, \emph{British Journal of Nutrition}, \emph{Cell
-  Host \& Microbe}, \emph{Cell Reports}, \emph{Clinical Infectious
-  Diseases}, \emph{eLife}, \emph{Environmental Microbiology},
-\emph{Genome Biology}, \emph{Genome Research}, \emph{Gut Microbes},
-\emph{InnoCentive}, \emph{ISMEJ}, \emph{J Clinical Investigation},
-\emph{mBio}, \emph{Microbiome}, \emph{National Science Foundation},
+  Bioengineering}, \emph{British Journal of Nutrition}, \emph{Canada
+  Research Chair}, \emph{Cell Host \& Microbe}, \emph{Cell Reports},
+\emph{Clinical Infectious Diseases}, \emph{eLife}, \emph{Environmental
+  Microbiology}, \emph{Genome Biology}, \emph{Genome Research},
+\emph{Gut Microbes}, \emph{InnoCentive}, \emph{ISMEJ}, \emph{J
+  Clinical Investigation}, \emph{mBio}, \emph{Microbiome},
+\emph{National Science Foundation}, \emph{Nature Microbiology},
 \emph{npj Biofilms and Microbiomes}, \emph{PLoS Computational
   Biology}, \emph{PLoS One}, \emph{PLoS Pathogens}, \emph{PNAS},
 \emph{Science Translational Medicine}, \emph{Scientific Reports},
 \emph{Trends in Microbiology}. \\
+
+\vspace{-10mm} \hangindent=0.5in $\bullet$\hspace{.1in} Chair:
+Diversity \& Inclusion Committee, Duke MGM Department, 2018- \\
 
 \vspace{-10mm} \hangindent=0.5in $\bullet$\hspace{.1in} Co-Chair: Duke
 Provost's Science Initiative, Genomics Subgroup, 2017- \\
@@ -387,7 +411,7 @@ Disease Research, Bangladesh, March 3-5, 2014 \\
 Junior Advisory Group, 2011-2013. 
 
 
-
+\newpage
 \section{\underline{\sc Mentorship}}
 \vspace{.1in}
 
@@ -399,9 +423,10 @@ Junior Advisory Group, 2011-2013.
 \item[2015-] Dr. Max Villa \newline 
   PhD, Materials Science \& Engineering \newline
   Burroughs Wellcome Fund Postdoctoral Enrichment Program (2016)
+  Rising Stars in Biomedical Applications (2018)
 \item[2016-2017] Dr. Alex Washburne \newline 
-  PhD, Ecology \& Evolutionary Biology 
-  
+  PhD, Ecology \& Evolutionary Biology \newline
+  Postdoctoral Fellow, Plowright Lab, Montana State University (2017-)
   
 \end{itemize}
 
@@ -421,18 +446,19 @@ Junior Advisory Group, 2011-2013.
   NSF Graduate Research Fellowship (2017, declined)
 \item[2015-] Justin Silverman \newline 
   MD/PhD Student, Computational Biology \& Bioinformatics
-\item[2014-] Firas Midani \newline 
-  PhD Student, Computational Biology \& Bioinformatics
 \item[2014-] Rachael Bloom \newline 
   PhD Student, University Program in Genetics \& Genomics \newline
   UPGG Marcy Speer Fellowship (2014) \newline
   NSF Graduate Research Fellowship (2014)
+\item[2013-2018] Firas Midani \newline 
+  PhD Student, Computational Biology \& Bioinformatics \newline
+  Postdoctoral Fellow, Britton Lab, Baylor College of Medicine (2018-)
 \item[2013-2017] Aspen Reese \newline 
-  PI \& Junior Fellow, Harvard Society of Fellows (2017-2020)\newline
-  PhD Candidate, University Program in Ecology \newline
-  NSF Doctoral Dissertation Improvement Grant (2015) \newline
+  PhD Student, University Program in Ecology \newline
   NSF Graduate Research Fellowship (2014) \newline
   Department of Defense NDSEG Fellowship (2014, declined)
+  NSF Doctoral Dissertation Improvement Grant (2015) \newline
+  PI \& Junior Fellow, Harvard Society of Fellows (2017-2020)\newline
 \end{itemize}
 
 \vspace{-.1in}
@@ -440,7 +466,8 @@ Junior Advisory Group, 2011-2013.
 \vspace{.1in}
 \begin{itemize}[leftmargin=2cm, style=sameline, itemsep=0mm]
 
-\item[2017-] Miranda Metz, Biology \& Global Health 
+\item[2018-] Savita Gupta, Neuroscience \& English
+\item[2017-2018] Miranda Metz, Biology \& Global Health 
 \item[2015-2018] Andrew Grover, Biochemistry 
 \item[2015-2017] Lionel Watkins, Biomedical Engineering 
 \item[2014-2017] Anchi Wu, Biomedical Engineering \newline 
@@ -466,6 +493,10 @@ p\item[2008-2010] Albert Wang (\emph{at MIT, supervised by Eric Alm})
 \vspace{.25in}
 
 \begin{revnumerate}[60]
+
+\item {ASBMB Annual Meeting, Orlando, FL, Apr 2020}
+
+\item {Precision Medicine World Conference, Duke University, Durham, NC, Sep 2019}
 
 \item {CGIBD Seminar Series, UNC Chapel Hill, Chapel Hill, NC, Apr 2019}
 
